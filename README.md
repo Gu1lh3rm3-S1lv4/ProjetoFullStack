@@ -1,4 +1,4 @@
-# 🧠 Base de Conhecimento Inteligente (by Gemini AI)
+# 🧠 Base de Conhecimento Inteligente (com Api Gemini AI)
 
 > Um motor de busca de tecnologias Front-end integrado a um gerador de conteúdo autônomo via Inteligência Artificial.
 
